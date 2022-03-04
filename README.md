@@ -4,7 +4,15 @@ Python es un lenguaje de programación orientado a objetos de alto nivel con sem
 # Qué es una variable?
 En programacion una variable consta de un espacio en el sistema de memoria y un nombre simbólico asociado con ese espacio. Esta brecha contiene una cantidad conocida o desconocida de información o valor.
 ## Nombrando una variable
-
+La creación de estas variables se realizan a través de un valor de la misma, el operador de asignación en el python es el "="
+Correcta asignacion de la variable:
+```python
+x=23
+```
+Incorrecta asignacion de variable:
+```python
+23=x
+```
 ## Asignando valores a una variable
 
 ## Operadores básicos
