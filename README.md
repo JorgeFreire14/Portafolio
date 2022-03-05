@@ -149,5 +149,25 @@ while x < 5:
    X +=1
 ```
 ## Break
-
+La instrucción break  proporciona la oportunidad de cerrar un bucle cuando se activa una condición externa, esta función se coloca dentro del bloque de código debajo del bucle, normalmente luego de la instrucción "if".
+```python 
+j=0
+for i in range (10):
+    j+=2
+    print ("i;",i,"j:",j)
+    if j==10:
+        break
+```
 ## Continue
+La instrucción  da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle.
+```python 
+python
+contador=0
+for i in range (10):
+    for j in range (10):
+        contador +=1
+        print ("i:",i,"j:",j)
+        if contador >50:
+            continue
+print ("contador:",contador)
+```
