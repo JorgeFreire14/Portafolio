@@ -84,10 +84,18 @@ Este tipo de datos corresponde a números reales en decimales. En Python, el pun
 ```python
 resultado = 6.4 + 4.6
 print(resultado)     
-print(type(resultado)) # Se imprimirá <class "float">
+print(type(resultado)) # Se imprimirá <class ´float`>
 ```
 ## String
-
+Estos son los  datos compuestos por caracteres que representan textos, estas cadenas de texto se representan mediante comillas
+```python
+Nombre = ´Jorge Freire´
+print(Nombre)
+```
+```python
+Nombre = "Jorge Freire"
+print(nombre)
+```
 ## Casting en Python
 
 ## List
