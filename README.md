@@ -161,7 +161,6 @@ for i in range (10):
 ## Continue
 La instrucción  da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle.
 ```python 
-python
 contador=0
 for i in range (10):
     for j in range (10):
