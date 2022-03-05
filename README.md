@@ -141,7 +141,13 @@ for_ in [0,1,2]
   print ("final")
 ```
 ## Ciclo While
-
+Un bucle wile permite repetir la ejecución de un grupo de instrucciones mientras se cumpla una condición es decir, mientras la condición tenga el valor True, se representa de la siguiente manera.
+```python 
+x = 0
+while x < 5:
+   print('El valor actual es:', X
+   X +=1
+```
 ## Break
 
 ## Continue
