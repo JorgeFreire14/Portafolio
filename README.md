@@ -52,13 +52,12 @@ division=35/7
 print(divison)
 [output]5
 
-
-### Módulo
-
+## Módulo
+htyhthy
 # Tipos de datos en Python
-
+yhtyht
 ## Integer
-
+htht
 ## Float
 
 ## String
