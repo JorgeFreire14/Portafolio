@@ -46,6 +46,8 @@ print(multiplicacion)
 [output]30
 ```
 ### División
+El operador que se utiliza en la division es "/"
+
 
 ## Módulo
 
