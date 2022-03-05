@@ -83,8 +83,8 @@ print(J)
 Este tipo de datos corresponde a números reales en decimales. En Python, el punto "." Y no a la coma”, “. Aquí se usa el comando 'float' para representarlo.
 ```python
 resultado = 6.4 + 4.6
-print(resultado)
-print(type(resultado))
+print(resultado)     
+print(type(resultado)) # Se imprimirá <class "float">
 ```
 ## String
 
