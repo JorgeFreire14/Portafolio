@@ -65,6 +65,11 @@ print(num1,"%",num2,"=",modulo)
 Como anteriormente se menciono que el modulo da como resultado el resto de la division entera,aqui esta un ejemplo de como modular con 2 variables
 
 # Tipos de datos en Python
+Los tipos de datos en python son los siguientes: 
+*Numeros enteros (integer)
+*Numeros de punto flotante(float)
+*texto(cadena de caracteres) (string)
+*Booleanos (verdadero y falso)
 
 ## Integer
 
