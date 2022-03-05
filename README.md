@@ -123,7 +123,14 @@ print(diccionario)
 # Tomando decisiones
 Las decisiones en pythom son muy importantes para decidir si nuestro programa debe ejecutar un comando o no, pero para ello debe cumplir con algunos requisitos previos, para poder lograr esto en python, usa una instrucción if.
 ## Sentencia if
-
+La estructura if / elif / else es una forma común de controlar el flujo de un programa, lo que te permite ejecutar bloques de código específicos según el valor de algunos datos. Si la condición que sigue a la palabra clave if se cumple o evalúa como verdadera, el bloque de código se ejecutará.
+```python 
+salario = 4001
+if salario > 3000:
+    print("salario mayor que 3000")
+elif salario > 4000:
+    print("salario mayor que 400")
+```
 ## Ciclo For
 En python el ciclo for es una estructua que se  repite una serie de instrucciones por un numero determinado de veces (bucle) estos bucles, como su nombre indica, nos permiten ejecutar una o más líneas de código de forma iterativa.
 ```python 
