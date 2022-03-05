@@ -24,7 +24,6 @@ Cuando se asigna un valor numerico no se necesita usar las comillas
 edad =30
 ```
 ## Operadores básicos
-
 ### Suma
 
 ### Resta
