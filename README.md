@@ -39,7 +39,12 @@ print(resta)
 [output]16
 ```
 ### Multiplicación
-
+El operador que se utiliza en la multiplicación es "*"
+```python
+multiplicacion=6*5
+print(multiplicacion)
+[output]30
+```
 ### División
 
 ### Módulo
