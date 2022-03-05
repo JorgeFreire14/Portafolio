@@ -121,10 +121,18 @@ diccionario = {'nombre' : 'Jorge', ´Edad´ :20}
 print(diccionario)
 ```
 # Tomando decisiones
+Las decisiones en pythom son muy importantes para decidir si nuestro programa debe ejecutar un comando o no, pero para ello debe cumplir con algunos requisitos previos, para poder lograr esto en python, usa una instrucción if.
 ## Sentencia if
 
 ## Ciclo For
-
+En python el ciclo for es una estructua que se  repite una serie de instrucciones por un numero determinado de veces (bucle) estos bucles, como su nombre indica, nos permiten ejecutar una o más líneas de código de forma iterativa.
+```python 
+print("comienzo")
+for_ in [0,1,2]
+  print(" hola " , end ="")
+  print()
+  print ("final")
+```
 ## Ciclo While
 
 ## Break
