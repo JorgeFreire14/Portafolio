@@ -55,6 +55,14 @@ print(Division)
 ```
 
 ## Módulo
+En el operador modulo nos da como resultado el resto de la división entera, el simbolo que se usa para este operador es %
+```python
+num1=4
+num2=18
+modulo=num1%num2
+print(num1,"%",num2,"=",modulo)
+```
+Como anteriormente se menciono que el modulo da como resultado el resto de la division entera,aqui esta un ejemplo de como modular con 2 variables
 
 # Tipos de datos en Python
 
