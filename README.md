@@ -66,6 +66,7 @@ Como anteriormente se menciono que el modulo da como resultado el resto de la di
 
 # Tipos de datos en Python
 Los tipos de datos en python son los siguientes: 
+
 *Numeros enteros (integer)
 *Numeros de punto flotante(float)
 *texto(cadena de caracteres) (string)
