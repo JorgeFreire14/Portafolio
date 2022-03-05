@@ -25,7 +25,12 @@ edad =30
 ```
 ## Operadores básicos
 ### Suma
-
+El operador que se utiliza para la suma es "+"
+```python
+Suma=46+1
+print(suma)
+[output]47
+```
 ### Resta
 
 ### Multiplicación
