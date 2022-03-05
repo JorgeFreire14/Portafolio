@@ -91,8 +91,6 @@ Estos son los  datos compuestos por caracteres que representan textos, estas cad
 ```python
 Nombre = ´Jorge Freire´
 print(Nombre)
-```
-```python
 Nombre = "Jorge Freire"
 print(nombre)
 ```
