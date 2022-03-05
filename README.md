@@ -46,18 +46,13 @@ print(multiplicacion)
 [output]30
 ```
 ### División
-El operador que se utiliza en la división es "/"
-```python
-division=35/7
-print(divison)
-[output]5
 
 ## Módulo
-htyhthy
+
 # Tipos de datos en Python
-yhtyht
+
 ## Integer
-htht
+
 ## Float
 
 ## String
