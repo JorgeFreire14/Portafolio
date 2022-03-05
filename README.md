@@ -32,7 +32,12 @@ print(suma)
 [output]47
 ```
 ### Resta
-
+El operador que se utiliza en la resta es "-"
+```python
+Resta=23-7
+print(resta)
+[output]16
+```
 ### Multiplicación
 
 ### División
