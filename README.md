@@ -46,7 +46,7 @@ print(multiplicacion)
 [output]30
 ```
 ### División
-
+El operador que se utiliza 
 ### Módulo
 
 # Tipos de datos en Python
