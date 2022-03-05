@@ -45,10 +45,9 @@ multiplicacion=6*5
 print(multiplicacion)
 [output]30
 ```
-### División
-El operador que se utiliza en la division es "/"
+### Division
 
-
+vfdvfv
 ## Módulo
 
 # Tipos de datos en Python
