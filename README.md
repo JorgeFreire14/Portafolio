@@ -47,7 +47,13 @@ print(multiplicacion)
 ```
 ### Division
 
-vfdvfv
+El operador que se utiliza en la division es "/"
+```python
+Divison=35/7
+print(Division)
+[outup]5
+```
+
 ## Módulo
 
 # Tipos de datos en Python
