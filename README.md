@@ -77,7 +77,7 @@ Los tipos de datos en python son los siguientes:
 En el Integer se utilizara el dato "int" para representarlo al lenguaje de programación seguido del int , este tipo de dato se corresponde con los números enteros.
 ```python
 J= int(14)
-print(14)
+print(J)
 ```
 ## Float
 
