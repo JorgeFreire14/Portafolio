@@ -109,7 +109,11 @@ Lista=[ "cebolla", "tomate", "pimiento" ]
  [output]cebolla,tomate,pimiento
 ```
 ## Tuple
-
+Una tupla en python es un conjunto ordenado de elementos encerrados entre paréntesis y separados por comas, casi como una lista, una tupla no puede ser una tupla vacía (no forma parte del elemento interno) y no puede cambiar el orden o los datos en ella.
+```python
+tuple=[Mouse,Monitor,Parlantes]
+print:("tuple")
+```
 ## Dictionary
 
 # Tomando decisiones
