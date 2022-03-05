@@ -14,7 +14,15 @@ Incorrecta asignacion de variable:
 23=x
 ```
 ## Asignando valores a una variable
-
+Luego de a ver creado y nombrado la variable debemos asignar una variable la cual puede ser tipo numerica o textual 
+Una cosa que se debe tener muy claro es que al momento de escribir un texto en la variable se debe siempre utilizar las comillas para que asi python identifique que es un texto 
+```python
+mascotas= "gatos"
+```
+Cuando se asigna un valor numerico no se necesita usar las comillas
+```python
+edad =30
+```
 ## Operadores básicos
 
 ### Suma
