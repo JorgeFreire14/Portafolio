@@ -99,7 +99,7 @@ El casting en python es la técnica que sirve para convertir un dato de un tipo 
 ```python
 int a str : str(23)
 str a int : int (87)
-float a int: (3.1)
+float a int:int (3.1)
 ```
 ## List
 
