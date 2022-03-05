@@ -104,7 +104,7 @@ float a int:int (3.1)
 ## List
 Una lista es una estructura de datos en Python, que es una secuencia ordenada de elementos que son mutables o editables. Cualquier elemento o valor en la lista se llama elemento. Así como las cadenas se definen como caracteres entre comillas dobles, las listas se definen como valores entre corchetes [ ]
 ```phyton
-Lista=["cebolla", "tomate", "pimiento"]
+Lista=[ "cebolla", "tomate", "pimiento" ]
  print:("lista")
  [output]cebolla,tomate,pimiento
 ```
