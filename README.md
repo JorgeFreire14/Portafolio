@@ -51,6 +51,8 @@ El operador que se utiliza en la división es "/"
 division=35/7
 print(divison)
 [output]5
+
+
 ### Módulo
 
 # Tipos de datos en Python
