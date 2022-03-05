@@ -95,7 +95,12 @@ Nombre = "Jorge Freire"
 print(nombre)
 ```
 ## Casting en Python
-
+El casting en python es la técnica que sirve para convertir un dato de un tipo a un tipo de dato diferente
+```python
+int a str : str(23)
+str a int : int (87)
+float a int: (3.1)
+```
 ## List
 
 ## Tuple
